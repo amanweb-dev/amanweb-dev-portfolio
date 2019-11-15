@@ -1,4 +1,0 @@
-create a folder in htdocs or www 
-1. folder name: kinakini
-2.import  kenabech.sql into your mysql database
-3.visit site: localhost/kinakini
