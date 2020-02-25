@@ -1,2 +1,0 @@
-# amanghub.github.io
- kenabecha
